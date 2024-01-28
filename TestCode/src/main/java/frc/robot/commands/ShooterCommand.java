@@ -19,8 +19,8 @@ public class ShooterCommand extends Command {
   private CommandPS4Controller controller;
 
   /* SHOOTER SPEEDS */
-  private final double ejectSpeed = 0.3;
-  private final double shootSpeed = 0.3;
+  private final double ejectSpeed = 0.1;
+  private final double shootSpeed = 0.1;
 
   /** Creates a new ShooterDefault. */
   public ShooterCommand(Shooter shooter, CommandPS4Controller controller) {
