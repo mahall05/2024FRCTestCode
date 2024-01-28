@@ -1,0 +1,3 @@
+Shift+F5 to send code to robot.
+
+PS4 Controller connected to laptop, driver station set to team # 4381
